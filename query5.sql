@@ -1,2 +1,2 @@
-SELECT DISTINCT Job_name 
-FROM EmployeeDetails;
+SELECT venue_name,capacity
+FROM FootballVenue;
